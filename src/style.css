@@ -1,0 +1,33 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.floatLeft {
+  float: left;
+}
+
+.floatRight {
+  float: right;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
+
+.red {
+  width: 80%;
+  padding: 20px;
+  height: 100px;
+  margin: 5px auto;
+  border: 1px solid black !important;
+  border-radius: 10px;
+}
+.green {
+  width: 80%;
+  padding: 20px;
+  height: 100px;
+  margin: 5px auto;
+  border: 1px solid black !important;
+  border-radius: 10px;
+}
